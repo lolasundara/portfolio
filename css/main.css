@@ -5,3 +5,7 @@
 .testimony {
   background-color: var(--color-secondary-cold);
 }
+
+.variation {
+  background-color: var(--color-primary-light);
+}
