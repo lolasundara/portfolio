@@ -16,3 +16,8 @@ html {
   font-family: var(--font-primary);
   color: #255060;
 }
+
+.dark-type {
+  font-family: var(font-primary);
+  color: #255060;
+}
