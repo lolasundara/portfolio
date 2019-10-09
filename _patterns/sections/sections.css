@@ -1,0 +1,13 @@
+.testimony {
+  background-color: var(--color-testimony);
+  margin-left: 3em;
+  margin-right: 3em;
+}
+
+.carousel {
+  overflow: scroll;
+}
+
+.variation {
+  background-color: var(--color-primary-light);
+}
