@@ -1,11 +1,8 @@
-.carousel {
-  overflow: scroll;
-}
+---
+---
 
-.testimony {
-  background-color: var(--color-secondary-cold);
-}
-
-.variation {
-  background-color: var(--color-primary-light);
-}
+{% include_relative modules.css %}
+{% include_relative grid.css %}
+{% include_relative type.css %}
+{% include_relative theme.css %}
+{% pattern_css %}

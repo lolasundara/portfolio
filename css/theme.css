@@ -8,6 +8,7 @@
   --color-neutral: #e0c9a4;
   --color-neutral-light: #faf1e2;
   --color-whatever: #66848f;
+  --color-testimony: #d8ddd9;
 
   --font-primary: "Oswald", sans-serif;
   --font-secondary: "Oswald", sans-serif;
@@ -25,4 +26,8 @@ html {
 
 .green-type {
   color: var(--color-dark);
+}
+
+.white-type {
+  color: #fff;
 }
