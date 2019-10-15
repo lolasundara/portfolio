@@ -6,12 +6,12 @@ patternbot:
   title: "Lola Sundara's Portfolio"
   description: |
     A website dedicated to the creative works of Lola Sundara.
-font_url: "https://fonts.google.com/?query=oswald" "https://fonts.google.com/specimen/Roboto?selection.family=Roboto"
-rationales:
-  typefaces.primary: |
-    Oswald was selected because is it a clean cut and tall font which displays a confident and organized look to my approach. Oswald is to be used for all body copy and most situations.
-  typefaces.secondary: |
-    Roboto should be used for hierarchy and contrast in text purposes.
-  colors.primary: |
-    The primary colours should be used to represent the overall look and feel of the brand.
-  colors.secondary: |
+  font_url: "https://fonts.google.com/?query=oswald" "https://fonts.google.com/specimen/Roboto?selection.family=Roboto"
+  rationales:
+    typefaces.primary: |
+      Oswald was selected because is it a clean cut and tall font which displays a confident and organized look to my approach. Oswald is to be used for all body copy and most situations.
+    typefaces.secondary: |
+      Roboto should be used for hierarchy and contrast in text purposes.
+    colors.primary: |
+      The primary colours should be used to represent the overall look and feel of the brand.
+    colors.secondary: |
