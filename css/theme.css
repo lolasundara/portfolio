@@ -1,5 +1,5 @@
 :root {
-  --color-primary: #8bb3bf;
+  --color-primary: #c5d9df;
   --color-primary-light: #f2f2f2;
   --color-secondary: #255060;
   --color-secondary-cold: #9eb196;
@@ -30,4 +30,16 @@ html {
 
 .white-type {
   color: #fff;
+}
+
+.light-blue-type {
+  color: #8bb3bf;
+}
+
+.thin-type {
+  font-weight: lighter;
+}
+
+.norm-type {
+  font-weight: normal;
 }

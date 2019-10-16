@@ -5,4 +5,4 @@ patternbot:
   title: "Lola"
   description: |
     A website dedicated to the creative works of Lola Sundara.
-  font_url: "https://fonts.googleapis.com/css?family=Oswald|Roboto&display=swap"
+  font_url: "https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700|Roboto:300,400,500&display=swap"

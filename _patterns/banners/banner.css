@@ -1,47 +1,8 @@
 .picture {
-  width: 100%;
+  width: 0%;
 }
 
 .banner-type {
   padding-top: 2em;
-}
-
-@media only screen and (min-width: 25em) {
-
-  .banner-type {
-    text-align: left;
-    position: absolute;
-    max-width: 40%;
-    left: 18em;
-    top: 13.5em;
-  }
-}
-
-
-@media only screen and (min-width: 38em) {
-
-  .banner-type {
-    font-size: 70%;
-    max-width: 50%;
-    margin-left: 2em;
-    top: 1.5em;
-    left: 2em;
-  }
-
-  .banner {
-    position: relative;
-    background-color: var(--color-secondary);
-  }
-}
-
-@media only screen and (min-width: 60em) {
-
-  .picture {
-    width: 50%;
-  }
-
-  .banner-type {
-    padding-top: 3em;
-    max-width: 50%;
-  }
+  max-width: 50%;
 }
