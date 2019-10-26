@@ -11,3 +11,21 @@
 .variation {
   background-color: var(--color-primary-light);
 }
+
+.scroll-carousel {
+  overflow-x: auto;
+}
+
+.scroll-carousel-items {
+  width: 150vw;
+  display: flex;
+}
+
+.scroll-carousel-items a {
+  display: block;
+  margin-right: .4em;
+}
+
+.scroll-carousel-items a:last-child {
+  margin-right: 0;
+}
