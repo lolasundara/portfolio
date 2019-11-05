@@ -18,7 +18,7 @@
 }
 
 .half {
-  width: 49.5%;
+  width: 48%;
 }
 
 hr {
@@ -28,17 +28,17 @@ hr {
 }
 
 .brick {
-  width: 70%;
+  width: 80%;
 }
 
 @media only screen and (min-width: 38em) {
   .pic {
-    left: 26em;
-    top: 12em;
+    left: 29em;
+    top: 19em;
   }
 
   .moi {
-    width: 80%;
+    width: 60%;
   }
 
   .banner-type {
@@ -49,5 +49,10 @@ hr {
 
   .hey {
     font-size: 2.25em;
+  }
+
+  .work-pic {
+    left: 3em;
+    top: 31em;
   }
 }
