@@ -33,12 +33,16 @@ hr {
 
 @media only screen and (min-width: 38em) {
   .pic {
-    left: 29em;
+    left: 31em;
     top: 19em;
   }
 
+  .banner-content {
+    margin-left: 1em;
+  }
+
   .moi {
-    width: 60%;
+    width: 65%;
   }
 
   .banner-type {
