@@ -1,4 +1,5 @@
 ---
+layout: piece
 name: "brick munson"
 image: "/images/brick-munson.png"
 title: "Brick & Munson"
@@ -15,3 +16,4 @@ colors:
   - #hexcode
   - #hexcode
   - #hexcode
+---

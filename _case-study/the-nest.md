@@ -1,4 +1,5 @@
 ---
+layout: piece
 name: "the nest"
 image: "/images/nest.png"
 title: "The Nest"
@@ -15,3 +16,4 @@ colors:
   - #hexcode
   - #hexcode
   - #hexcode
+---

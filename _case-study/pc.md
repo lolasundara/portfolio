@@ -1,4 +1,5 @@
 ---
+layout: piece
 name: "pinnacle collective"
 image: "/pc.png"
 title: "Pinnacle Collective"
@@ -15,3 +16,4 @@ colors:
   - #hexcode
   - #hexcode
   - #hexcode
+---

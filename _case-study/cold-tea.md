@@ -1,4 +1,5 @@
 ---
+layout: piece
 name: "coldtea"
 image: "/images/cold-tea.png"
 title: "ColdTea"
@@ -15,3 +16,4 @@ colors:
   - #hexcode
   - #hexcode
   - #hexcode
+---

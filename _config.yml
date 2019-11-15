@@ -12,5 +12,5 @@ patternbot:
     piece: |
       content
 collections:
-  work:
+  case-study:
     output: true

@@ -1,6 +1,6 @@
 .banner-type {
   padding-top: 2em;
-  margin-left: 2.5em;
+  margin-left: 2em;
   max-width: 75%;
 }
 
@@ -32,22 +32,9 @@ hr {
 }
 
 @media only screen and (min-width: 38em) {
-  .pic {
-    left: 34.5em;
-    top: 21em;
-  }
-
-  .banner-content {
-    margin-left: 1em;
-  }
-
-  .moi {
-    width: 65%;
-  }
 
   .banner-type {
     max-width: 75%;
-    margin-left: 5em;
     padding-top: 4em;
   }
 
