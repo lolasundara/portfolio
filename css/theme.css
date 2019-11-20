@@ -38,8 +38,10 @@ html {
 
 .thin-type {
   font-weight: lighter;
+  color: #000;
 }
 
 .norm-type {
   font-weight: normal;
+  color: #000;
 }

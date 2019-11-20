@@ -1,9 +1,9 @@
 nav {
-  background-color: var(--color-primary);
+  background-color: #efefef;
 }
 
 li, a {
   text-decoration: none;
   list-style-type: none;
-  color: var(--color-secondary);
+  color: #000;
 }

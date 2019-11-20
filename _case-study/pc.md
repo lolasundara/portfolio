@@ -11,8 +11,8 @@ variations:
   - sketch-2.jpg
   - sketch-3.jpg
 colors:
-  - #000
-  - #efefef
-  - #b7ac8e
-  - #f46533
+  - "#000"
+  - "#efefef"
+  - "#b7ac8e"
+  - "#f46533"
 ---
