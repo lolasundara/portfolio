@@ -6,19 +6,19 @@ layout: default
 
 <div class="grid work-ban">
   <div class="unit xs-1 s-1 m-1-2 l-1-2  inline-block pin-left-center half work-pic">
-    <img class="img-flex brick" src="/images/placeholder.png" alt="Brick & Munson's logo">
+    <img class="img-flex brick" src="/images/" alt="Brick & Munson's logo">
   </div>
   <div class="unit xs-1 s-1 m-1-2 l-1-2 inline-block dark-type max-length half pin-right">
     <h2 class="thin-type">{{page.name}}</h2>
     <hr width="1">
-    <p class="bold norm-type micro push-0"></p>
-    <p class="thin-type micro"></p>
+    <p class="bold norm-type micro push-0">{{include.category}}</p>
+    <p class="thin-type micro">{{include.details}}</p>
   </div>
 </div>
 
 <div class="island-2">
-  <h2 class="text-center dark-type norm-type"></h2>
-    <p class="text-center push-2 dark-type thin-type"></p>
+  <h2 class="text-center dark-type norm-type">EXPLORATION</h2>
+    <p class="text-center push-2 dark-type thin-type">{{include.exploration}}</p>
     <div class="unit xs-1 s-1 m-1 l-1 xl-1 list-group-inline center-flow pad-t-2">
       <img class="gutter-2" src="/images/" alt="">
       <img class="gutter-2" src="/images/" alt="">
@@ -28,22 +28,20 @@ layout: default
 
 <div class="grid variation island-2">
   <div class="unit xs-1 s-1 m-1 l-1 xl-1">
-    <h2 class="text-center norm-type"></h2>
+    <h2 class="text-center norm-type">VARIATIONS</h2>
   </div>
   <ul class="unit xs-1 s-1 m-1 l-1 xl-1 list-group-inline center-flow pad-t-2">
-    <li class="gutter-2"><img src="/images/" alt=""></li>
-    <li class="gutter-2"><img src="/images/" alt=""></li>
-    <li class="gutter-2"><img src="/images/" alt=""></li>
+    <li class="gutter-2"><img src="/images/{{include.image}}" alt=""></li>
+    <li class="gutter-2"><img src="/images/{{include.image}}" alt=""></li>
+    <li class="gutter-2"><img src="/images/{{include.image}}" alt=""></li>
   </ul>
 </div>
 
 <div class="island-2">
-  <h2 class="text-center dark-type norm-type"></h2>
+  <h2 class="text-center dark-type norm-type">COLOURS</h2>
   <div class="center-flow">
-    <img class="gutter" src="/images/" alt="">
-    <img class="gutter" src="/images/" alt="">
-    <img class="gutter" src="/images/" alt="">
-    <img class="gutter" src="/images/" alt="">
-    <img class="gutter" src="/images/" alt="">
+    {% for col in page.colors %}
+    {% pattern colours/colours color=col %}
+    {% endfor %}
   </div>
 </div>

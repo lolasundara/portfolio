@@ -11,9 +11,10 @@ variations:
   - sketch-2.jpg
   - sketch-3.jpg
 colors:
-  - #hexcode
-  - #hexcode
-  - #hexcode
-  - #hexcode
-  - #hexcode
+  - #2E755B
+  - #263B58
+  - #467495
+  - #86CBD8
+  - #F26D44
+  - #F2EE85
 ---
