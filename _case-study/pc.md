@@ -1,11 +1,11 @@
 ---
 layout: piece
-name: "pinnacle collective"
-image: "/pc.png"
-title: "Pinnacle Collective"
-category: "Front-End Web Design"
-details: "Pinnacle Collective is a retail company, based in Ottawa. They provide various clothing collections for both men and women. More specifically young individuals and creatives who want to express themselves through the brands style."
-exploration-text: "I produced the wireframes and website design for Pinnacle Collective. The client had asked for a simple and monochromatic style, with a gold accent color. He also wanted it to portray a sophisticated but chic tone. His inspiration was influenced by stompinggrounds.com for reference."
+name: "bare mud"
+image: "/baremud.png"
+title: "Bare Mud"
+category: "Branding"
+details: "Bare Mud is a local and organic mud mask brand focused towards both Men and Women. The logo was produced from the brand’s initials “BM”. Together the letters “B” and “M” form the abstract visual image of two females. In another perspective, the initials represents a masculine face, where the horizontal “B” resembles a set of eyes, and the “M” is the mouth."
+exploration-text: "I created the logo and brand identity for this mock company. I utilized the acronyms and transformed it into a visual feature which can now be used and placed on any packaging and products."
 exploration:
 variations:
   - sketch-1.jpg
@@ -14,6 +14,7 @@ variations:
 colors:
   - "#000"
   - "#efefef"
-  - "#b7ac8e"
-  - "#f46533"
+  - "#8b7563"
+  - "#9a8d6f"
+  - "#b8694c"
 ---
