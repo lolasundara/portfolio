@@ -4,8 +4,7 @@ name: "coldtea"
 image: "/images/cold-tea.png"
 title: "COLDTEA"
 category: "[Campaign - Branding & Packaging]"
-details: "ColdTea is an existing restaurant and hidden bar located in the heart of kensington market, Toronto. The name itself derives from local jargon, meaning cold beer is served out of teapots."
-exploration-text: "In the exploration process I redesigned CT's logo. From a graffiti marking to a digitally vectorized piece; I then took the project even further and expanded their in-house brew to a campaign for retail marketing promotion. The project deliverables includes a logo, a promotional poster, and the packaging design for the beer cans."
+details: "ColdTea is an existing restaurant and hidden bar located in the heart of kensington market, Toronto. The name itself derives from local jargon, meaning cold beer is served from teapots. In this project I explored the many meanings and tones of colour, then combined it with variations of brews."
 exploration:
   - ct-sketch-1.png
 variations:

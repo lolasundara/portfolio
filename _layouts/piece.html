@@ -3,15 +3,14 @@ layout: default
 ---
 
 <h1 class="norm-type text-center push-0">{{page.title}}</h1>
-<h5 class="thin-type text-center">{{page.category}}</h5>
+<h6 class="thin-type text-center">{{page.category}}</h6>
 <p class="thin-type text-center gutter-2">{{page.details}}</p>
 
 <div class="gutter-2 pad-b-2 pad-t">
   <div>
-    <h2 class="text-center dark-type norm-type">EXPLORATION</h2>
-    <p class="text-center push dark-type thin-type gutter-2">{{page.exploration-text}}</p>
+    <h4 class="text-center dark-type norm-type push-0">EXPLORATION</h4>
   </div>
-  <ul class="unit xs-1 s-1 m-1 l-1 xl-1 list-group-inline center-flow pad-t">
+  <ul class="unit xs-1 s-1 m-1 l-1 xl-1 list-group-inline center-flow push-0">
       {% for img in page.exploration %}
     <li class="gutter-2 content-center img-flex"><img src="/images/{{img}}" alt=""></li>
       {% endfor %}
@@ -20,7 +19,7 @@ layout: default
 
 <div class="grid variation pad-t-2 pad-b-2">
   <div class="unit xs-1 s-1 m-1 l-1 xl-1">
-    <h2 class="text-center norm-type">VARIATIONS</h2>
+    <h4 class="text-center norm-type push-0">VARIATIONS</h4>
   </div>
   <ul class="unit xs-1 s-1 m-1 l-1 xl-1 list-group-inline push-0">
     {% for img in page.variations %}
@@ -30,7 +29,7 @@ layout: default
 </div>
 
 <div class="island-2">
-  <h2 class="text-center dark-type norm-type">COLOURS</h2>
+  <h4 class="text-center dark-type norm-type">COLOURS</h4>
   <div class="center-flow">
     {% for col in page.colors %}
     {% pattern colours/colours color=col %}
