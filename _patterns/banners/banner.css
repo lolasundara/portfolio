@@ -1,6 +1,7 @@
 .banner-type {
   margin-left: 2em;
   max-width: 75%;
+  margin-top: 1em;
 }
 
 .pic {
@@ -34,7 +35,6 @@ hr {
 
   .banner-type {
     max-width: 75%;
-    padding-top: 4em;
   }
 
   .hey {
