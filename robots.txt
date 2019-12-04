@@ -1,6 +1,6 @@
 # robotstxt.org
 
-Sitemap: http://robotparts.co/sitemap.xml
+Sitemap: http://lolasundara.ca/sitemap.xml
 
 User-Agent: *
 Disallow:
