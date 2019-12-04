@@ -4,7 +4,7 @@
 
 - (me) {github.com/lolasundara}
 - myself
-- My cool web prof [Thomas J Bradley] {https://github.com/thomasjbradley}
+- My super cool web prof [Thomas J Bradley] {https://github.com/thomasjbradley}
 
 ---
 
