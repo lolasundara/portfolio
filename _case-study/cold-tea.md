@@ -12,7 +12,6 @@ exploration:
 variations:
   - ct-drinks.png
   - ct-label.png
-  - ct-paper.png
   - ct-poster.png
 colors:
   - "#ec2028"
