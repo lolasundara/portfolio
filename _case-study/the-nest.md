@@ -6,8 +6,12 @@ title: "THE NEST"
 category: "[Front-End Web Design]"
 details: "The Nest is an e-commerce website designed specifically for niche products. It is targeted towards higher-end consumers who like to shop neat collections and items. This project outlines the wireframes and overall process in creating the final outcome."
 exploration:
+- nest-sketch-1.png
+- nest-sketch-2.png
 variations:
-  - sketch-1.jpg
+  - nest-ipad.png
+  - nest-box.png
+  - nest-mac-1.png
 colors:
   - "#2E755B"
   - "#263B58"

@@ -7,8 +7,13 @@ category: "[Campaign - Branding & Packaging]"
 details: "ColdTea is an existing restaurant and hidden bar located in the heart of kensington market, Toronto. The name itself derives from local jargon, meaning cold beer is served from teapots. In this project I explored the many meanings and tones of colour, then combined it with variations of brews."
 exploration:
   - ct-sketch-1.png
+  - ct-sketch-2.png
+  - ct-sketch-3.png
 variations:
   - ct-drinks.png
+  - ct-label.png
+  - ct-paper.png
+  - ct-poster.png
 colors:
   - "#ec2028"
   - "#f15c22"
