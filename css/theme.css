@@ -1,13 +1,12 @@
 :root {
-  --color-primary: #c5d9df;
-  --color-primary-light: #f2f2f2;
-  --color-secondary: #255060;
-  --color-secondary-cold: #9eb196;
-  --color-accent: #f2ec65;
+  --color-primary: #4f73eb;
+  --color-primary-light: #f8f1eb;
+  --color-secondary: #f4ef5d;
+  --color-secondary-cold: #dddbce;
+  --color-accent: #f25b27;
   --color-dark: #757b5f;
   --color-neutral: #e0c9a4;
   --color-neutral-light: #faf1e2;
-  --color-whatever: #66848f;
   --color-testimony: #d8ddd9;
 
   --font-primary: "Oswald", sans-serif;
