@@ -1,7 +1,12 @@
 .testimony {
-  background-color: #efefef;
+  background-color: var(--color-accent);
+  opacity: 70%;
   margin-left: 3em;
   margin-right: 3em;
+}
+
+.test-p {
+  color: var(--color-primary-light);
 }
 
 .carousel {
@@ -28,4 +33,8 @@
 
 .scroll-carousel-items a:last-child {
   margin-right: 0;
+}
+
+.green-type {
+  color: #000;
 }

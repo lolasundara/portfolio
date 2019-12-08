@@ -1,5 +1,5 @@
 li, a {
   text-decoration: none;
   list-style-type: none;
-  color: var(--color-primary);
+  color: color: #000;
 }
