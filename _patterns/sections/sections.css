@@ -1,6 +1,6 @@
 .testimony {
-  background-color: var(--color-accent);
-  opacity: 70%;
+  background-color: #000;
+  opacity: 90%;
   margin-left: 3em;
   margin-right: 3em;
 }

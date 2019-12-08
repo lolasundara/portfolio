@@ -3,3 +3,28 @@ li, a {
   list-style-type: none;
   color: color: #000;
 }
+
+.borderXwidth a:before, div.borderXwidth li:after {
+  position: absolute;
+  opacity: 0;
+  width: 0%;
+  height: 2px;
+  content: '';
+  background: #FFF;
+  transition: all 0.3s;
+}
+
+.borderXwidth li:before {
+  left: 0px;
+  top: 0px;
+}
+
+.borderXwidth li:after{
+  right: 0px;
+  bottom: 0px;
+}
+
+.borderXwidth li:hover:before, .borderXwidth li:hover:after {
+  opacity: 1;
+  width: 100%;
+}
