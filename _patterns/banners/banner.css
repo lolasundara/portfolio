@@ -1,5 +1,5 @@
 .banner-type {
-  margin-left: 2em;
+  margin-left: 6em;
   max-width: 75%;
   margin-top: 1em;
 }
@@ -21,14 +21,16 @@
   width: 48%;
 }
 
-hr {
-  width: 25%;
-  border-width: 1px;
-  margin-top: 1em;
-}
 
 .brick {
   width: 80%;
+}
+
+hr {
+  border-width: 1px;
+  margin-top: 1em;
+  width: 45%;
+  margin-left: 5.75em;
 }
 
 @media only screen and (min-width: 38em) {
@@ -44,5 +46,18 @@ hr {
   .work-pic {
     left: 3em;
     top: 31em;
+  }
+
+  hr {
+    margin-left: 6.75em;
+
+  }
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  hr {
+    margin-left: 8.75em;
   }
 }
