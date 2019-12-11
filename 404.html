@@ -2,15 +2,16 @@
 layout: default
 ---
 
-<main class="pad-t-2 island" role="main" id="main" tabindex="0">
+<main class="pad-t-2 island-2" role="main" id="main" tabindex="0">
   <div class="text-center grid grid-middle">
-    <div class="unit xs-1 s-1 m-1-2 l-1-2">
-      <img class="img-flex" src="/images/.png" alt="This is a picture of a">
+    <div class="unit xs-1 s-1 m-1 l-1 gutter-2">
+      <img class="img-flex" src="/images/404.png" alt="404">
     </div>
-    <div class="unit xs-1 s-1 m-1-2 l-1-2">
-      <h1 class="thin-type">OOPS!</h1>
-      <h2 class="thin-type">Something not right</h2>
-      <p class="thin-type">Looks like something went wrong...But don't worry - Just try again by returning to the main page!</p>
+    <div class="unit xs-1 s-1 m-1 l-1">
+      <h4 class="thin-type text-center">Looks like something went wrong... Try again by returning to the main page!</h4>
+    </div>
+    <div class="unit center-block">
+      {% pattern buttons/go-home %}
     </div>
   </div>
 </main>
