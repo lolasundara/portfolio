@@ -1,7 +1,6 @@
 .banner-type {
   margin-left: 6em;
   max-width: 75%;
-  text-align: left;
 }
 
 .pic {
@@ -51,6 +50,10 @@ hr {
   hr {
     margin-left: 6.75em;
 
+  }
+
+  .banner {
+    align-content: center;
   }
 
 }
