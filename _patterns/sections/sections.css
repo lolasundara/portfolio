@@ -46,3 +46,7 @@
 .lola {
   max-width: auto;
 }
+
+.max-width {
+  width: 70%;
+}
