@@ -50,11 +50,11 @@ html {
   color: #000;
 }
 
-.skip-links a {
+.skip-links ul {
   position: absolute;
   top: -5em;
 }
 
-.skip-links a:focus {
+.skip-links ul:focus {
   top: 0;
 }
