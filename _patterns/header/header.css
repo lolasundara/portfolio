@@ -21,3 +21,8 @@ a {
 a:hover {
   color: var(--color-accent);
 }
+
+.drop-shadow {
+  background-color: white;
+  box-shadow: 0 3px 12px -7px rgba(0,0,0,0.20);
+}
