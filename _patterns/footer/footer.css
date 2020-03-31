@@ -1,7 +1,11 @@
 footer {
-  background-color: var(--color-primary-light);
+  background-color: #fff;
 }
 
 .creds {
   color: #000;
+}
+
+.drop-shadow {
+  box-shadow: 0 3px 12px -7px rgba(0,0,0,0.20);
 }
