@@ -14,11 +14,10 @@ variations:
   - ct-label.png
   - ct-poster.png
 colors:
-  - "#ec2028"
-  - "#f15c22"
-  - "#f7afbd"
-  - "#febe19"
-  - "#75c9b1"
-  - "#83c8cf"
-  - "#2f3273"
+  - "#f4f4f4"
+  - "#f5f0e4"
+  - "#e9eb88"
+  - "#a5cb63"
+  - "#649559"
+  - "#42642f"
 ---
