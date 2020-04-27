@@ -5,11 +5,11 @@ image: "/images/lala-skin.png"
 title: "LALA SKIN ESSENTIALS"
 category: "[Digital Marketing & Print]"
 details: "Lala Skin Essentials is a growing skin care brand that was founded on the principles of providing high-quality, effective, and organic skincare products suitable for all skin types. As the in-house contracted Graphic Designer, I am responsible for improving the company's marketing materials and social platforms. Scroll below to view some of the bits and pieces that I have created!"
-exploration:
+banners:
   - ct-sketch-1.png
   - ct-sketch-2.png
   - ct-sketch-3.png
-variations:
+socials:
   - ct-drinks.png
   - ct-label.png
   - ct-poster.png
