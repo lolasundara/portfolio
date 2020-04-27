@@ -53,6 +53,7 @@ html {
 .skip-links ul {
   position: absolute;
   top: -5em;
+  visibility: hidden;
 }
 
 .skip-links ul:focus {
