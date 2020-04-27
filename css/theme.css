@@ -58,3 +58,7 @@ html {
 .skip-links ul:focus {
   top: 0;
 }
+
+a:hover {
+  color: var(--color-primary);
+}
