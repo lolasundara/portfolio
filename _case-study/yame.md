@@ -4,7 +4,7 @@ name: "yame"
 image: "/images/yame-card.png"
 title: "Yame Restaurant"
 category: "Print, Packaging and Digital Marketing"
-details: "COMING SOON! --- Yame Restaurant is an authentic south eastern inspired restaurant that offers fine dining and a world of flavours.---"
+details: "--- COMING SOON! ---"
 colors:
   - "#d35948"
   - "#ecdbc7"
