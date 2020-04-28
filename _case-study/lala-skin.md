@@ -8,7 +8,7 @@ details: "Lala Skin Essentials is a growing skin care brand that was founded on 
 exploration:
   - lala-socials.png
 variations:
-  -
+  - lala-spring-banner.png
 colors:
   - "#f4f4f4"
   - "#f5f0e4"
