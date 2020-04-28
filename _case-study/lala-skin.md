@@ -9,6 +9,7 @@ exploration:
   - lala-socials.png
 variations:
   - lala-spring-banner.png
+  - lala-dryhands-banner.png
 colors:
   - "#f4f4f4"
   - "#f5f0e4"
