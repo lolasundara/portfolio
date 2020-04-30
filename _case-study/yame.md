@@ -4,7 +4,7 @@ name: "yame"
 image: "/images/yame-card.png"
 title: "Yame Restaurant"
 category: "Print, Packaging and Digital Marketing"
-details: "------------------------------- COMING SOON! -------------------------------"
+details: "--- COMING SOON! ---"
 colors:
   - "#d35948"
   - "#ecdbc7"
