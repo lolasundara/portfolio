@@ -4,7 +4,7 @@ name: "the nest"
 image: "/images/nest.png"
 title: "THE NEST"
 category: "[Front-End Web Design]"
-details: "The Nest is an e-commerce website designed specifically for niche products. It is targeted towards higher-end consumers who like to shop neat collections and items. This project outlines the wireframes and brief process in creating the final result. Scroll to see more!"
+details: "The Nest is a multi-channel e-commerce and retail company. This mock business retails its own line of never ending niche products, all through its website. This case study is a brief overview of the project and my process. Scroll to see more!"
 exploration:
 - nest-sketch-1.png
 - nest-sketch-2.png
